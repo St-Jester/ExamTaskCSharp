@@ -1,0 +1,5 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Menu\bin\Debug\Menu.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Menu\bin\Debug\Menu.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Menu\obj\Debug\Menu.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Menu\obj\Debug\Menu.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache

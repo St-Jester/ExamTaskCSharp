@@ -1,0 +1,5 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\ProfileClasses\bin\Debug\ProfileClasses.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\ProfileClasses\bin\Debug\ProfileClasses.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\ProfileClasses\obj\Debug\ProfileClasses.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\ProfileClasses\obj\Debug\ProfileClasses.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\ProfileClasses\obj\Debug\ProfileClasses.csprojResolveAssemblyReference.cache

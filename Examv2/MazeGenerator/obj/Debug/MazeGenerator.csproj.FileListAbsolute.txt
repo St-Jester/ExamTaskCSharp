@@ -1,0 +1,5 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\MazeGenerator\bin\Debug\MazeGenerator.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\MazeGenerator\bin\Debug\MazeGenerator.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\MazeGenerator\obj\Debug\MazeGenerator.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\MazeGenerator\obj\Debug\MazeGenerator.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\MazeGenerator\obj\Debug\MazeGenerator.csprojResolveAssemblyReference.cache

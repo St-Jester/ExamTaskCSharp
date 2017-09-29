@@ -1,0 +1,12 @@
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\Examv2.exe.config
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\Examv2.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\Examv2.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\MazeGenerator.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\MazeGenerator.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\obj\Debug\Examv2.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\obj\Debug\Examv2.exe
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\obj\Debug\Examv2.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\Menu.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\Menu.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\ProfileClasses.dll
+C:\Users\Kateryna\Documents\Programming\Programming\Exams\C#\Examv2\Examv2\bin\Debug\ProfileClasses.pdb
